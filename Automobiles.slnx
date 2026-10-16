@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Automobiles.Client/Automobiles.Client.csproj" />
+  <Project Path="Automobiles.Domain/Automobiles.Domain.csproj" />
+  <Project Path="Automobiles.Mediator/Automobiles.Mediator.csproj" />
+  <Project Path="Automobiles.UseCases/Automobiles.UseCases.csproj" />
+</Solution>

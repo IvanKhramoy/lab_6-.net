@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Toyota Camry",
+    "Year": 2023,
+    "Horsepower": 203,
+    "IsElectric": false
+  },
+  {
+    "Name": "Tesla Model 3",
+    "Year": 2024,
+    "Horsepower": 283,
+    "IsElectric": true
+  },
+  {
+    "Name": "BMW X5",
+    "Year": 2022,
+    "Horsepower": 335,
+    "IsElectric": false
+  },
+  {
+    "Name": "Hyundai Ioniq 5",
+    "Year": 2024,
+    "Horsepower": 320,
+    "IsElectric": true
+  },
+  {
+    "Name": "Lada Vesta",
+    "Year": 2021,
+    "Horsepower": 113,
+    "IsElectric": false
+  }
+]

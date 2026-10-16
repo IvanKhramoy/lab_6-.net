@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Automobiles.UseCases/1.0.0": {
+        "dependencies": {
+          "Automobiles.Domain": "1.0.0",
+          "Automobiles.Mediator": "1.0.0"
+        },
+        "runtime": {
+          "Automobiles.UseCases.dll": {}
+        }
+      },
+      "Automobiles.Domain/1.0.0": {
+        "runtime": {
+          "Automobiles.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Automobiles.Mediator/1.0.0": {
+        "runtime": {
+          "Automobiles.Mediator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Automobiles.UseCases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Automobiles.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Automobiles.Mediator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

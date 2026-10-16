@@ -1,0 +1,11 @@
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Mediator/bin/Debug/net10.0/Automobiles.Mediator.deps.json
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Mediator/bin/Debug/net10.0/Automobiles.Mediator.dll
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Mediator/bin/Debug/net10.0/Automobiles.Mediator.pdb
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Mediator/obj/Debug/net10.0/Automobiles.Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Mediator/obj/Debug/net10.0/Automobiles.Mediator.AssemblyInfoInputs.cache
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Mediator/obj/Debug/net10.0/Automobiles.Mediator.AssemblyInfo.cs
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Mediator/obj/Debug/net10.0/Automobiles.Mediator.csproj.CoreCompileInputs.cache
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Mediator/obj/Debug/net10.0/Automobiles.Mediator.dll
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Mediator/obj/Debug/net10.0/refint/Automobiles.Mediator.dll
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Mediator/obj/Debug/net10.0/Automobiles.Mediator.pdb
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Mediator/obj/Debug/net10.0/ref/Automobiles.Mediator.dll

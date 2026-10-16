@@ -1,0 +1,11 @@
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Domain/bin/Debug/net10.0/Automobiles.Domain.deps.json
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Domain/bin/Debug/net10.0/Automobiles.Domain.dll
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Domain/bin/Debug/net10.0/Automobiles.Domain.pdb
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Domain/obj/Debug/net10.0/Automobiles.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Domain/obj/Debug/net10.0/Automobiles.Domain.AssemblyInfoInputs.cache
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Domain/obj/Debug/net10.0/Automobiles.Domain.AssemblyInfo.cs
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Domain/obj/Debug/net10.0/Automobiles.Domain.csproj.CoreCompileInputs.cache
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Domain/obj/Debug/net10.0/Automobiles.Domain.dll
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Domain/obj/Debug/net10.0/refint/Automobiles.Domain.dll
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Domain/obj/Debug/net10.0/Automobiles.Domain.pdb
+/Users/ivan/University/2_year/ИСП/labs1_6/lab_6/Automobiles.Domain/obj/Debug/net10.0/ref/Automobiles.Domain.dll
